@@ -1,0 +1,1012 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hozing\n"
+"POT-Creation-Date: 2019-01-02 11:17+0700\n"
+"PO-Revision-Date: 2018-12-25 14:05+0700\n"
+"Last-Translator: \n"
+"Language-Team: hozing\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;esc_attr;esc_attr__\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:7
+msgid "404"
+msgstr ""
+
+#: 404.php:8
+msgid "WE'RE SORRY"
+msgstr ""
+
+#: 404.php:9
+msgid "BUT WE CAN'T FIND THE PAGE YOU WERE LOOKING FOR"
+msgstr ""
+
+#: 404.php:11
+msgid ""
+"It's probably some thing we've done wrong but now we know about it and we'll "
+"try to fix it."
+msgstr ""
+
+#: 404.php:12
+msgid "Go Home or try to search:"
+msgstr ""
+
+#: 404.php:17
+msgid "Search for:"
+msgstr ""
+
+#: comments.php:9
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:9
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:9
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:24
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:31
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:40
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:42
+msgid "Name"
+msgstr ""
+
+#: comments.php:43
+msgid "Email"
+msgstr ""
+
+#: comments.php:44
+msgid "Phone"
+msgstr ""
+
+#: comments.php:47
+msgid "Your Comment ..."
+msgstr ""
+
+#: comments.php:48
+msgid "Submit Comment"
+msgstr ""
+
+#: content/content-blog-sidebar.php:77 content/content-version1.php:78
+#: content/content-version2.php:80 content/content-version3.php:79
+msgid "blog"
+msgstr ""
+
+#: content/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: content/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content/content-page.php:16 content/define_blocks_content.php:86
+msgid "Pages:"
+msgstr ""
+
+#: content/content-page.php:20
+msgid "Page"
+msgstr ""
+
+#: content/content-post.php:118
+msgid "Posted by"
+msgstr ""
+
+#: content/content-post.php:148
+msgid "You may also like"
+msgstr ""
+
+#: content/content-post.php:178 content/define_blocks_content.php:105
+msgid "Read more"
+msgstr ""
+
+#: content/define_blocks_content.php:69
+msgid " 0 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:70
+msgid " 1 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:71
+msgid "comments"
+msgstr ""
+
+#: content/define_blocks_content.php:73
+msgid "Comment off"
+msgstr ""
+
+#: content/define_blocks_content.php:117
+msgid "Tags: "
+msgstr ""
+
+#: content/define_blocks_content.php:124
+msgid "Categories: "
+msgstr ""
+
+#: content/define_blocks_content.php:131
+msgid "Share: "
+msgstr ""
+
+#: content/define_blocks_content.php:205
+msgid "Edit"
+msgstr ""
+
+#: content/define_blocks_content.php:212
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: customize/class-customize.php:43
+msgid "Typography"
+msgstr ""
+
+#: customize/class-customize.php:61
+msgid "General Typo"
+msgstr ""
+
+#: customize/class-customize.php:77
+msgid "Primary Font"
+msgstr ""
+
+#: customize/class-customize.php:99
+msgid "Font Size"
+msgstr ""
+
+#: customize/class-customize.php:100
+msgid "Example: 16px, 1.2em"
+msgstr ""
+
+#: customize/class-customize.php:118
+msgid "Line height"
+msgstr ""
+
+#: customize/class-customize.php:119
+msgid "Example: 23px, 1.5em"
+msgstr ""
+
+#: customize/class-customize.php:138
+msgid "Letter Spacing"
+msgstr ""
+
+#: customize/class-customize.php:139
+msgid "Example: 0px, 0.5em"
+msgstr ""
+
+#: customize/class-customize.php:160
+msgid "Content Color"
+msgstr ""
+
+#: customize/class-customize.php:182
+msgid "Second Font"
+msgstr ""
+
+#: customize/class-customize.php:197
+msgid "Font"
+msgstr ""
+
+#: customize/class-customize.php:223
+msgid "General Color"
+msgstr ""
+
+#: customize/class-customize.php:244
+msgid "Primary color"
+msgstr ""
+
+#: customize/class-customize.php:276 customize/class-customize.php:288
+#: customize/class-customize.php:305
+msgid "Custom Font"
+msgstr ""
+
+#: customize/class-customize.php:306
+msgid ""
+"Step 1: Insert font-face in style.css file: Refer https://www.w3schools.com/"
+"cssref/css3_pr_font-face_rule.asp. Step 2: Insert font-family and font-"
+"weight like format: \n"
+"\t\t\t\t\t\t[\"Perpetua\", \"Regular:Bold:Italic:Light\"]. Step 3: Refresh "
+"customize page to display new font in dropdown font field."
+msgstr ""
+
+#: customize/class-customize.php:323
+msgid "Global Layout"
+msgstr ""
+
+#: customize/class-customize.php:338
+msgid "Preload"
+msgstr ""
+
+#: customize/class-customize.php:343 customize/class-customize.php:595
+#: customize/class-customize.php:616 customize/class-customize.php:637
+#: customize/class-customize.php:658
+msgid "Yes"
+msgstr ""
+
+#: customize/class-customize.php:344 customize/class-customize.php:596
+#: customize/class-customize.php:617 customize/class-customize.php:638
+#: customize/class-customize.php:659
+msgid "No"
+msgstr ""
+
+#: customize/class-customize.php:358 customize/class-customize.php:556
+#: customize/class-customize.php:718
+msgid "Layout"
+msgstr ""
+
+#: customize/class-customize.php:375 customize/class-customize.php:573
+#: customize/class-customize.php:735
+msgid "Sidebar Width (px)"
+msgstr ""
+
+#: customize/class-customize.php:392
+msgid "Width Content (px)"
+msgstr ""
+
+#: customize/class-customize.php:409
+msgid "Width Site"
+msgstr ""
+
+#: customize/class-customize.php:426
+msgid "Boxed Container Width (px)"
+msgstr ""
+
+#: customize/class-customize.php:442
+msgid "Boxed Offset (px)"
+msgstr ""
+
+#: customize/class-customize.php:455 customize/class-customize.php:677
+#: customize/class-customize.php:754
+msgid "Header"
+msgstr ""
+
+#: customize/class-customize.php:469
+msgid "Header Default"
+msgstr ""
+
+#: customize/class-customize.php:470 customize/class-customize.php:498
+msgid "This isn't effect in Blog"
+msgstr ""
+
+#: customize/class-customize.php:483 customize/class-customize.php:694
+#: customize/class-customize.php:771 extend/register_menu_widget.php:31
+msgid "Footer"
+msgstr ""
+
+#: customize/class-customize.php:497
+msgid "Footer Default"
+msgstr ""
+
+#: customize/class-customize.php:512 extend/breadcrumbs.php:128
+#: inc/init.php:294
+msgid "Blog"
+msgstr ""
+
+#: customize/class-customize.php:517
+msgid "Archive"
+msgstr ""
+
+#: customize/class-customize.php:532
+#: inc/vendor/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: customize/class-customize.php:537 inc/class_hook.php:136
+#: inc/class_hook.php:167
+msgid "Default"
+msgstr ""
+
+#: customize/class-customize.php:538
+msgid "Version 1"
+msgstr ""
+
+#: customize/class-customize.php:539
+msgid "Version 2"
+msgstr ""
+
+#: customize/class-customize.php:540
+msgid "Version 3"
+msgstr ""
+
+#: customize/class-customize.php:541
+msgid "Three Column"
+msgstr ""
+
+#: customize/class-customize.php:542
+msgid "Blog Sidebar"
+msgstr ""
+
+#: customize/class-customize.php:590
+msgid "Show Title"
+msgstr ""
+
+#: customize/class-customize.php:611
+msgid "Show Date"
+msgstr ""
+
+#: customize/class-customize.php:632
+msgid "Show Exerpt"
+msgstr ""
+
+#: customize/class-customize.php:653
+msgid "Show Readmore"
+msgstr ""
+
+#: customize/class-customize.php:703
+msgid "Single"
+msgstr ""
+
+#: customize/class-customize.php:785
+msgid "Language Countdown"
+msgstr ""
+
+#: customize/class-customize.php:798
+msgid "Language"
+msgstr ""
+
+#: customize/custom-control/google-font.php:120
+msgid "Load Font Weight"
+msgstr ""
+
+#: customize/render-style.php:48 customize/render-style.php:49
+msgid "on"
+msgstr ""
+
+#: extend/breadcrumbs.php:14 extend/breadcrumbs.php:30 inc/init.php:286
+#: inc/init.php:290
+msgid "Home"
+msgstr ""
+
+#: extend/breadcrumbs.php:61
+msgid "Archive by date"
+msgstr ""
+
+#: extend/breadcrumbs.php:66
+msgid "Archive by month"
+msgstr ""
+
+#: extend/breadcrumbs.php:70
+msgid "Archive by year"
+msgstr ""
+
+#: extend/breadcrumbs.php:85
+msgid "Search results for"
+msgstr ""
+
+#: extend/breadcrumbs.php:122
+msgid "Archive by tag"
+msgstr ""
+
+#: extend/breadcrumbs.php:126
+msgid "Articles posted by"
+msgstr ""
+
+#: extend/breadcrumbs.php:130
+msgid "You got it Error 404 not Found"
+msgstr ""
+
+#: extend/register_menu_widget.php:6
+msgid "Primary Menu"
+msgstr ""
+
+#: extend/register_menu_widget.php:19 extend/register_menu_widget.php:21
+msgid "Main Sidebar"
+msgstr ""
+
+#: extend/register_menu_widget.php:42 extend/register_menu_widget.php:44
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: inc/class_hook.php:198
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/class_hook.php:199
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/class_hook.php:200
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/class_hook.php:284
+msgid "Wide"
+msgstr ""
+
+#: inc/class_hook.php:285
+msgid "Boxed"
+msgstr ""
+
+#: inc/init.php:32
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: inc/init.php:45 inc/init.php:58
+msgid "<li><span class=\"pagi_dots\">...</span></li>"
+msgstr ""
+
+#: inc/init.php:68
+msgid "</ul></div>"
+msgstr ""
+
+#: inc/init.php:172
+msgid "Logo Default"
+msgstr ""
+
+#: inc/init.php:298
+msgid "Search"
+msgstr ""
+
+#: inc/init.php:306
+msgid "Tags"
+msgstr ""
+
+#: inc/ova_walker_nav_menu.php:197
+msgid "Add a menu"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:393
+#: inc/vendor/class-tgm-plugin-activation.php:912
+#: inc/vendor/class-tgm-plugin-activation.php:2618
+#: inc/vendor/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:394
+#: inc/vendor/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:1019
+#: inc/vendor/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3594
+msgid "Show Details"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3594
+msgid "Hide Details"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: install_resource/active_plugins.php:60
+msgid "Elementor"
+msgstr ""
+
+#: install_resource/active_plugins.php:65
+msgid "Contact Form 7"
+msgstr ""
+
+#: install_resource/active_plugins.php:70
+msgid "Widget importer exporter"
+msgstr ""
+
+#: install_resource/active_plugins.php:75
+msgid "Metabox"
+msgstr ""
+
+#: install_resource/active_plugins.php:80
+msgid "Woocommerce"
+msgstr ""
+
+#: install_resource/active_plugins.php:85
+msgid "Recent posts widget"
+msgstr ""
+
+#: install_resource/active_plugins.php:91
+msgid "Woo cancel abandoned order"
+msgstr ""
+
+#: install_resource/active_plugins.php:96
+msgid "One click demo import"
+msgstr ""
+
+#: install_resource/active_plugins.php:101
+msgid "Cubeportfolio"
+msgstr ""
+
+#: install_resource/active_plugins.php:107
+msgid "OvaTheme Framework"
+msgstr ""
+
+#: install_resource/active_plugins.php:113
+msgid "OvaTheme Hotel"
+msgstr ""
+
+#: page.php:10
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for: "
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/hotel/content-product_2columns_no_sidebar1.php:45
+#: woocommerce/hotel/content-product_2columns_sidebar.php:43
+#: woocommerce/hotel/content-product_3columns_no_sidebar1.php:42
+#: woocommerce/hotel/content-product_3columns_no_sidebar2.php:42
+#: woocommerce/hotel/content-product_room_lifestyle.php:54
+#: woocommerce/hotel/content-product_room_list.php:45
+#: woocommerce/hotel/content-product_room_list_with_sidebar.php:41
+#: woocommerce/hotel/content-single-product.php:106
+#: woocommerce/hotel/content-single-product.php:242
+msgid "From:"
+msgstr ""
+
+#: woocommerce/hotel/content-product_2columns_no_sidebar1.php:47
+#: woocommerce/hotel/content-product_2columns_sidebar.php:45
+#: woocommerce/hotel/content-product_3columns_no_sidebar1.php:44
+#: woocommerce/hotel/content-product_3columns_no_sidebar2.php:44
+#: woocommerce/hotel/content-product_room_lifestyle.php:56
+#: woocommerce/hotel/content-product_room_list.php:47
+#: woocommerce/hotel/content-product_room_list_with_sidebar.php:43
+#: woocommerce/hotel/content-single-product.php:108
+#: woocommerce/hotel/content-single-product.php:244
+msgid "/ Night"
+msgstr ""
+
+#: woocommerce/hotel/content-product_2columns_no_sidebar1.php:75
+#: woocommerce/hotel/content-product_2columns_no_sidebar2.php:81
+#: woocommerce/hotel/content-product_2columns_sidebar.php:72
+#: woocommerce/hotel/content-product_3columns_no_sidebar1.php:107
+#: woocommerce/hotel/content-product_3columns_no_sidebar2.php:72
+#: woocommerce/hotel/content-product_room_lifestyle.php:80
+#: woocommerce/hotel/content-product_room_list.php:74
+#: woocommerce/hotel/content-product_room_list_with_sidebar.php:68
+#: woocommerce/hotel/content-single-product.php:276
+msgid "Adults"
+msgstr ""
+
+#: woocommerce/hotel/content-product_2columns_no_sidebar1.php:80
+#: woocommerce/hotel/content-product_2columns_no_sidebar2.php:86
+#: woocommerce/hotel/content-product_2columns_sidebar.php:77
+#: woocommerce/hotel/content-product_3columns_no_sidebar1.php:112
+#: woocommerce/hotel/content-product_3columns_no_sidebar2.php:77
+#: woocommerce/hotel/content-product_room_lifestyle.php:85
+#: woocommerce/hotel/content-product_room_list.php:79
+#: woocommerce/hotel/content-product_room_list_with_sidebar.php:73
+#: woocommerce/hotel/content-single-product.php:281
+msgid "Childrens"
+msgstr ""
+
+#: woocommerce/hotel/content-product_2columns_no_sidebar1.php:107
+#: woocommerce/hotel/content-product_3columns_no_sidebar1.php:79
+#: woocommerce/hotel/content-product_room_lifestyle.php:42
+msgid "Discover Now"
+msgstr ""
+
+#: woocommerce/hotel/content-product_2columns_no_sidebar2.php:45
+msgid "Price only:"
+msgstr ""
+
+#: woocommerce/hotel/content-product_2columns_no_sidebar2.php:53
+#: woocommerce/hotel/content-product_2columns_sidebar.php:103
+#: woocommerce/hotel/content-product_3columns_no_sidebar2.php:103
+#: woocommerce/hotel/content-product_room_list.php:137
+#: woocommerce/hotel/content-product_room_list_with_sidebar.php:130
+msgid "Book Now"
+msgstr ""
+
+#: woocommerce/hotel/content-product_style1.php:50
+msgid " reviews"
+msgstr ""
+
+#: woocommerce/hotel/content-product_style1.php:63
+#: woocommerce/hotel/content-product_style1.php:69
+#: woocommerce/hotel/content-product_style2.php:59
+#: woocommerce/hotel/content-product_style2.php:65
+#: woocommerce/hotel/content-product_style3.php:58
+#: woocommerce/hotel/content-product_style3.php:64
+msgid "/ Day"
+msgstr ""
+
+#: woocommerce/hotel/content-product_style1.php:66
+#: woocommerce/hotel/content-product_style2.php:62
+#: woocommerce/hotel/content-product_style3.php:61
+msgid "/ Hour"
+msgstr ""
+
+#: woocommerce/hotel/content-single-product.php:58
+msgid "Detail"
+msgstr ""
+
+#: woocommerce/hotel/content-single-product.php:60
+msgid "Booking Form"
+msgstr ""
+
+#: woocommerce/hotel/content-single-product.php:62
+msgid "Gallery"
+msgstr ""
+
+#: woocommerce/hotel/content-single-product.php:72
+msgid "OverView"
+msgstr ""
+
+#: woocommerce/hotel/content-single-product.php:80
+#: woocommerce/hotel/ovacrs-detail-services.php:13
+msgid "Services"
+msgstr ""
+
+#: woocommerce/hotel/content-single-product.php:115
+msgid "Galerry image"
+msgstr ""
+
+#: woocommerce/hotel/content-single-product.php:123
+msgid "Video Popup"
+msgstr ""
+
+#: woocommerce/hotel/content-single-product.php:146
+msgid "Booking form"
+msgstr ""
+
+#: woocommerce/hotel/content-single-product.php:175
+msgid "Booking Now"
+msgstr ""
+
+#: woocommerce/hotel/content-single-product.php:212
+msgid "Other Rooms"
+msgstr ""
+
+#: woocommerce/hotel/ovacrs-calendar.php:34
+msgid "Calendar"
+msgstr ""
+
+#: woocommerce/hotel/ovacrs-calendar.php:36
+msgid "more"
+msgstr ""
+
+#: woocommerce/hotel/ovacrs-calendar.php:42
+msgid "Available"
+msgstr ""
+
+#: woocommerce/hotel/ovacrs-calendar.php:47
+msgid "Booked"
+msgstr ""
+
+#: woocommerce/hotel/ovacrs-detail-amenities.php:14
+msgid " Adults "
+msgstr ""
+
+#: woocommerce/hotel/ovacrs-detail-amenities.php:20
+msgid " Children "
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:45
+msgid "Awaiting product image"
+msgstr ""
